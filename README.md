@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme Weber</h1>
-<h3 align="center">A linux addicted from Brazil.</h3>
+<h3 align="center">A Linux addicted from Brazil.</h3>
 
 - 📫 How to reach me **weba.guilherme@outlook.com**
+- 📘 UTFPR - BSc. Computer Science
+- 🖥️ @lamiautfpr | LAMIA - Laboratório de Aprendizado de Máquina e Imagens Aplicados à Indústria
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
